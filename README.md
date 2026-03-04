@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Buenos Aires
-* ✉️  You can contact me at [pcosin@gmail.com](mailto:pcosin@hotmail.com)
+* ✉️  You can contact me at [pcosin@hotmail.com](mailto:pcosin@hotmail.com)
 
 ### Skills
 
